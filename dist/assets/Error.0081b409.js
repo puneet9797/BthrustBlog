@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as r,a as o}from"./index.03d082ff.js";const a={methods:{goback(){this.$router.push({name:"login"})}}},c={class:"text-center"},_=o("h1",null,"Not Found",-1);function d(i,t,l,p,u,e){return n(),r("div",c,[_,o("button",{type:"button",class:"btn btn-primary",onClick:t[0]||(t[0]=b=>e.goback())},"Go back")])}const f=s(a,[["render",d]]);export{f as default};
